@@ -22,6 +22,6 @@
 
 ## Developer
 
-* [API](developer/api.md)
 * [Widget](developer/widget.md)
+* [Swagger API reference for swap service](developer/swagger-api-reference-for-swap-service.md)
 
