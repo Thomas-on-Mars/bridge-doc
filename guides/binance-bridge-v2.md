@@ -47,7 +47,9 @@ Transaction Result
 
 ![img](https://lh4.googleusercontent.com/z__YhfQgDHhjZaRLtAhcm0ovWYV68Sb5r3qRSArpCtE3hnvP3ngT-jkeQe1q_0EbKbp_-iO_6SUNiseLQN4uM1VSdmcVAJyhS_mZsFvWEWEk2rlK1GfwHCE_Xr95y6phE_jkpo7q)
 
-You can also verify the swap process from the “History” board. ![img](https://lh4.googleusercontent.com/74FfAjGt-NItSTjwNkBXFLTpLkkOGf7LGZ_ZyIpYusreWvvHilqFlgiL8Npl_gDAZfXOCcb60KfK_E3eZa4kE9V_AbiRTHN-L7MUmpEdhyg8K4jdrdJmyP-qn-iQ-8OliCXm_g-2)
+You can also verify the swap process from the “History” board. 
+
+![img](https://lh4.googleusercontent.com/74FfAjGt-NItSTjwNkBXFLTpLkkOGf7LGZ_ZyIpYusreWvvHilqFlgiL8Npl_gDAZfXOCcb60KfK_E3eZa4kE9V_AbiRTHN-L7MUmpEdhyg8K4jdrdJmyP-qn-iQ-8OliCXm_g-2)
 
 ### Swap Tokens from Binance Chain to a different Network
 

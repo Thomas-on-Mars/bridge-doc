@@ -11,6 +11,7 @@
 * [Binance Bridge v1](guides/binance-bridge-v1.md)
 * [Supported Assets](guides/supported-assets.md)
 * [Best Practice](guides/best-practice.md)
+* [Buy BNB as Gas](guides/buy-bnb-as-gas.md)
 
 ## Resource
 
