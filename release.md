@@ -1,6 +1,12 @@
 # Release
 
-## 2.0.0 - 2020-12-22
+## 2.1.0 - 2021-01-27
+
+### New  Features
+
+* Buy BNB as gas
+
+## [2.0.0](https://www.binance.org/en/blog/binance-bridge-v2-release/) - 2020-12-22
 
 ### New  Features
 
@@ -11,7 +17,7 @@
 
 * Remove "Peg-in" and "'Peg-out".
 
-## 1.0.0 - 2020-11-06
+## [1.0.0 ](https://www.binance.com/en/support/announcement/b763da0c6ace4e32bf8e65844e6c72e2)- 2020-11-06
 
 ### Added
 

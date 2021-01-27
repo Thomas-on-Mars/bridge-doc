@@ -1,4 +1,4 @@
-# Binance Bridge V2
+# Binance Bridge v2
 
 ## Introduction
 

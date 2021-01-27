@@ -7,8 +7,8 @@
 
 ## Guides
 
-* [Binance Bridge V2](guides/binance-bridge-v2.md)
-* [Binance Bridge V1](guides/binance-bridge-v1.md)
+* [Binance Bridge v2](guides/binance-bridge-v2.md)
+* [Binance Bridge v1](guides/binance-bridge-v1.md)
 * [Supported Assets](guides/supported-assets.md)
 * [Best Practice](guides/best-practice.md)
 
@@ -22,4 +22,5 @@
 ## Developer
 
 * [API](developer/api.md)
+* [Widget](developer/widget.md)
 

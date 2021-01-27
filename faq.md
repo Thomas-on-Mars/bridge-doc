@@ -1,5 +1,9 @@
 # FAQ
 
+## What is network fee?
+
+A fixed network fee will be charged according to different networks. The amount differs within different blockchains.
+
 ## Where can I get some help?
 
 Binance Bridge is the safest, fastest, and most secure way to bring cross-chain assets to Binance Chain and Binance Smart Chain. If you have any issues, please contact customer support of [Binance.com](https://www.binance.com/en/support).

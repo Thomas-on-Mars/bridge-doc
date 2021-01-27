@@ -4,9 +4,9 @@ description: 'https://www.binance.org/en/bridge'
 
 # Introduction
 
-## What is it?
+## What is Binance Bridge?
 
-Binance Bridge is a bridge service providing access to inter-blockchain liquidity for Binance Chain, Binance Smart Chain decentralized applications, and bring valuable assets to Binance Chain ecosystems.
+[Binance Bridge ](https://www.binance.org/en/bridge)is a bridge service providing access to inter-blockchain liquidity for Binance Chain, Binance Smart Chain decentralized applications, and bring valuable assets to Binance Chain ecosystems.
 
 ## Project Token Canal
 
@@ -18,7 +18,7 @@ Recently, Binance.com [announced](https://www.binance.com/en/support/articles/da
 
 * Trust Wallet
 * MetaMask
-* Math Wallet
+* [Math Wallet](https://twitter.com/MathWallet/status/1349879468437905408)
 
 ## Proof of Asset
 

@@ -2,32 +2,23 @@
 
 
 
-Current list:
+**Current list:**
 
-BUSD Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/BUSD-BD1)
-* [Binance Smart Chain](https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56)
-
-USDT Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/USDT-6D8)
-* [Binance Smart Chain](https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955)
-
-Pegged BTC Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/BTCB-1DE)
-* [Binance Smart Chain](https://bscscan.com/token/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c)
-
-Pegged ETH Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/ETH-1C9)
-* [Binance Smart Chain](https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8)
-
-Pegged LINK Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/LINK-AAD)
-* [Binance Smart Chain](https://bscscan.com/token/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd)
+* BUSD 
+  * [Binance Chain](https://explorer.binance.org/asset/BUSD-BD1)
+  * [Binance Smart Chain](https://bscscan.com/address/0xe9e7cea3dedca5984780bafc599bd69add087d56)
+* USDT
+  * [Binance Chain](https://explorer.binance.org/asset/USDT-6D8)
+  * [Binance Smart Chain](https://bscscan.com/address/0x55d398326f99059ff775485246999027b3197955)
+* Pegged BTC 
+  * [Binance Chain](https://explorer.binance.org/asset/BTCB-1DE)
+  * [Binance Smart Chain](https://bscscan.com/token/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c)
+* Pegged ETH
+  * [Binance Chain](https://explorer.binance.org/asset/ETH-1C9)
+  * [Binance Smart Chain](https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8)
+* Pegged LINK
+  * [Binance Chain](https://explorer.binance.org/asset/LINK-AAD)
+  * [Binance Smart Chain](https://bscscan.com/token/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd)
 
 Pegged BCH Token URL:
 
@@ -125,6 +116,11 @@ Pegged DAI Token URL:
     * [Binance Chain](https://explorer.binance.org/asset/INJ-FAE%20)
     * [Binance Smart Chain](https://bscscan.com/token/0xa2B726B1145A4773F68593CF171187d8EBe4d495)
 21. SXP Token URL:
+
     * [BEP2](https://explorer.binance.org/asset/SXP-CCC)
     * [BEP20](https://bscscan.com/token/0xa2B726B1145A4773F68593CF171187d8EBe4d495)
+
+Many more assets are coming soon ~
+
+
 

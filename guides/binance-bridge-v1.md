@@ -1,4 +1,4 @@
-# Binance Bridge V1
+# Binance Bridge v1
 
 ![img](https://lh6.googleusercontent.com/h72oSQTbHmSP99oQzsQJsKgaqTjAiAW3nuI086zFVKaqAZgHLV2AzOoUYI48Zr_ISoLwtYdgADTCyqUsZkFZuP2J4tHueEae9_1T1s_3V-f4CuwMzsaKCPvPAazvL3DJ5ZCMmmoh)
 
@@ -11,9 +11,11 @@ Peg-in procedure allows users to swap the native tokens to the equivalent of peg
 3. The user has to deposit the agreed amount of native tokens to this address. If the equivalent is not sent before the deadline, the native tokens are refundable.
 4. Binance Bridge Service Provider will take notice of the upcoming transfer and send the equivalent pegged tokens to the receiver’s address
 5. The user can see the change of his balance of these pegged tokens.
-6. Binance Bridge Service Provider will lock the original tokens. &lt;/b&gt; ![img](https://lh3.googleusercontent.com/W7ENOSDkUz5OrXsbfw1N5rGlETRmENxa9ALkYePe7fnUGgJar22ygMHiKkKYfuGQLy3aB_3Skk7ajbRErhD_ZL8lruuqJ7bNLByYuqiUVOiLY2Apyn4C7j2M-j2I8jMXQAJk11-L) 
+6. Binance Bridge Service Provider will lock the original tokens. &lt;/b&gt;  
 
    \*\*\*\*
+
+![img](https://lh3.googleusercontent.com/W7ENOSDkUz5OrXsbfw1N5rGlETRmENxa9ALkYePe7fnUGgJar22ygMHiKkKYfuGQLy3aB_3Skk7ajbRErhD_ZL8lruuqJ7bNLByYuqiUVOiLY2Apyn4C7j2M-j2I8jMXQAJk11-L)
 
 ## **Peg-Out Procedur**
 
@@ -24,9 +26,9 @@ Peg-out procedure allows users to swap the equivalent of pegged tokens on Binanc
 3. The user has to deposit the agreed amount of pegged tokens to this address. If the equivalent is not sent before the deadline, the pegged tokens are refundable.
 4. Binance Bridge Service Provider will take notice of the upcoming transfer and send the equivalent native tokens to the receiver’s address
 5. The user can see the change in his balance of these native tokens.
-6. Binance Bridge Service Provider will lock the pegged tokens. &lt;/b&gt; ![img](https://lh6.googleusercontent.com/HDFJLidp1kPA2ewC-4BeLCLOzf-ejlE8ALOY70g0ePXr9ZY0FQlWAi-lvqXvM73i754Y9RQLrs3iwyk4aeTLIYctVRNet9D5JCNXMik8UaUh7Zc001Y3ISQuu1O9fAFNJk_NwFx1) 
+6. Binance Bridge Service Provider will lock the pegged tokens. &lt;/b&gt;  
 
-Many more assets are coming soon ~
+![img](https://lh6.googleusercontent.com/HDFJLidp1kPA2ewC-4BeLCLOzf-ejlE8ALOY70g0ePXr9ZY0FQlWAi-lvqXvM73i754Y9RQLrs3iwyk4aeTLIYctVRNet9D5JCNXMik8UaUh7Zc001Y3ISQuu1O9fAFNJk_NwFx1)
 
 ## Peg-in User Guide
 
