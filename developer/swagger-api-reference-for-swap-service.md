@@ -188,7 +188,7 @@ API description for swap service
 
 | Code | Description | Schema |
 | :--- | :--- | :--- |
-| 200 | OK | ResponseStatusBodySwapList |
+| 20000 | OK | ResponseStatusBodySwapList |
 | 401 | Unauthorized |  |
 | 403 | Forbidden |  |
 | 404 | Not Found |  |
@@ -207,8 +207,8 @@ API description for swap service
 
 | Code | Description | Schema |
 | :--- | :--- | :--- |
-| 200 | OK | ResponseStatusBodySwapCreation |
-| 201 | Created |  |
+| 20000 | OK | ResponseStatusBodySwapCreation |
+| 20001 | Created |  |
 | 401 | Unauthorized |  |
 | 403 | Forbidden |  |
 | 404 | Not Found |  |
@@ -223,7 +223,7 @@ API description for swap service
 
 | Code | Description | Schema |
 | :--- | :--- | :--- |
-| 200 | OK | TokenListV2 |
+| 20000 | OK | TokenListV2 |
 | 401 | Unauthorized |  |
 | 403 | Forbidden |  |
 | 404 | Not Found |  |
@@ -244,7 +244,7 @@ API description for swap service
 
 | Code | Description | Schema |
 | :--- | :--- | :--- |
-| 200 | OK | NetworkListV2 |
+| 20000 | OK | NetworkListV2 |
 | 401 | Unauthorized |  |
 | 403 | Forbidden |  |
 | 404 | Not Found |  |
