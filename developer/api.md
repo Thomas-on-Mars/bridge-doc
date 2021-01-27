@@ -1,6 +1,6 @@
 # API
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="get" host="api.binance.org/bridge" path="/api/v1/tokens" %}
 {% api-method-summary %}
 Get Cakes
 {% endapi-method-summary %}

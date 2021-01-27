@@ -32,7 +32,7 @@ There are 3 options: 0.5 BNB, 1BNB and 2 BNB
 
 ### 4. Confirm the order information
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 The network fee should be the sum of the fee for swapping assets and the fee for purchasing BNB on your behalf. 
 
