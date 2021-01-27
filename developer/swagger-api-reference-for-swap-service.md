@@ -1,4 +1,4 @@
-# Swagger API reference for swap service
+# Swagger API reference
 
 API description for swap service
 
