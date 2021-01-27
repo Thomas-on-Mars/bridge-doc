@@ -34,13 +34,13 @@ There are 3 options: 0.5 BNB, 1BNB and 2 BNB
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-The network fee should be the sum of the fee for swap assets and the fee for purchasing BNB on your behalf. 
+The network fee should be the sum of the fee for swapping assets and the fee for purchasing BNB on your behalf. 
 
 {% hint style="info" %}
-The network fees are floating, you might get a different rate than you expected when your transaction is completed.
+The network fees are floating, you might get a different rate than you expected when your order is completed.
 {% endhint %}
 
-The actual amount of network fee you have to pay is _network fee\*\(1-discount\)_. When the discount is 100%, it is free. 
+The actual amount of network fee you have to pay is ****_**network fee\*\(1-discount\)**_**.** When the discount is 100%, the network fee is free. 
 
 ### 5. Complete the deposit transaction by sending the exact amount of token to the address shown
 
@@ -57,6 +57,8 @@ The actual amount of network fee you have to pay is _network fee\*\(1-discount\)
 {% hint style="info" %}
 The actual amount of token you receive can be different from the confirmation page
 {% endhint %}
+
+Calculation formula: 
 
 Received token  = Input amount  - network fee - cost to buy BNB
 
