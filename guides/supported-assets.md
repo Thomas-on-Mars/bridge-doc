@@ -31,44 +31,30 @@
 * Pegged ATOM
   * [Binance Chain](https://explorer.binance.org/asset/ATOM-596)
   * [Binance Smart Chain](https://bscscan.com/token/0x0eb3a705fc54725037cc9e008bdede697f62f335)
-
-Pegged DOT 
-
-* [Binance Chain](https://explorer.binance.org/asset/DOT-64C)
-* [Binance Smart Chain](https://bscscan.com/token/0x7083609fce4d1d8dc0c979aab8c869ea2c873402)
-
-Pegged ADA 
-
-* [Binance Chain](https://explorer.binance.org/asset/ADA-9F4)
-* [Binance Smart Chain](https://bscscan.com/token/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47)
-
-Pegged DAI Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/DAI-D75)
-* [Binance Smart Chain](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3)
-
-Pegged EOS Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/EOS-CDD)
-* [Binance Smart Chain](https://bscscan.com/token/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6)
-
-Pegged BAND Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/BAND-34B)
-* [Binance Smart Chain](https://bscscan.com/token/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18)
-
-Pegged XRP Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/XRP-BF2)
-* [Binance Smart Chain](https://bscscan.com/token/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe)
-* Pegged XTZ Token URL:
-* [Binance Chain](https://explorer.binance.org/asset/XTZ-F7A%20)
-* [Binance Smart Chain](https://bscscan.com/token/0x16939ef78684453bfdfb47825f8a5f714f12623a)
-
-Pegged BAT Token URL:
-
-* [Binance Chain](https://explorer.binance.org/asset/BAT-07A%20)
-* [Binance Smart Chain](https://bscscan.com/token/0x101d82428437127bF1608F699CD651e6Abf9766E)
+* Pegged DOT 
+  * [Binance Chain](https://explorer.binance.org/asset/DOT-64C)
+  * [Binance Smart Chain](https://bscscan.com/token/0x7083609fce4d1d8dc0c979aab8c869ea2c873402)
+* Pegged ADA 
+  * [Binance Chain](https://explorer.binance.org/asset/ADA-9F4)
+  * [Binance Smart Chain](https://bscscan.com/token/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47)
+* Pegged DAI
+  * [Binance Chain](https://explorer.binance.org/asset/DAI-D75)
+  * [Binance Smart Chain](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3)
+* Pegged EOS
+  * [Binance Chain](https://explorer.binance.org/asset/EOS-CDD)
+  * [Binance Smart Chain](https://bscscan.com/token/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6)
+* Pegged BAND
+  * [Binance Chain](https://explorer.binance.org/asset/BAND-34B)
+  * [Binance Smart Chain](https://bscscan.com/token/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18)
+* Pegged XRP
+  * [Binance Chain](https://explorer.binance.org/asset/XRP-BF2)
+  * [Binance Smart Chain](https://bscscan.com/token/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe)
+* Pegged XTZ 
+  * [Binance Chain](https://explorer.binance.org/asset/XTZ-F7A%20)
+  * [Binance Smart Chain](https://bscscan.com/token/0x16939ef78684453bfdfb47825f8a5f714f12623a)
+* Pegged BAT 
+  * [Binance Chain](https://explorer.binance.org/asset/BAT-07A%20)
+  * [Binance Smart Chain](https://bscscan.com/token/0x101d82428437127bF1608F699CD651e6Abf9766E)
 
 Pegged SNX Token URL:
 
