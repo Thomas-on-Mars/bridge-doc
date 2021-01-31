@@ -16,8 +16,8 @@ Recently, Binance.com [announced](https://www.binance.com/en/support/articles/da
 
 ## Wallet Support
 
-* Trust Wallet
-* MetaMask
+* [Trust Wallet](https://community.trustwallet.com/t/how-to-peg-out-tokens-from-binance-smart-chain/73517)
+* [MetaMask](https://www.metamask.io)
 * [Math Wallet](https://twitter.com/MathWallet/status/1349879468437905408)
 
 ## Proof of Asset
