@@ -14,17 +14,19 @@ Recently, Binance.com [announced](https://www.binance.com/en/support/articles/da
 
 [Project Token Canal](https://www.binance.org/en/blog/binance-presents-project-token-canal-2/) is a great option for users of Binance.com, while Binance Bridge is the powerful alternative for non-Binance.com users and more. These two channels will work together to provide more liquidity to Binance Chain ecosystem.
 
+## Proof of Asset
+
+ [View Proof of Assets](https://www.binance.org/en/assets-proof)
+
+As the largest crypto token vault and exchange, Binance.com will issue and bind more token assets on Binance Chain and Binance Smart Chain, and guarantee the conversion from and to the original tokens with credibility and infrastructure.
+
 ## Wallet Support
 
 * [Trust Wallet](https://community.trustwallet.com/t/how-to-peg-out-tokens-from-binance-smart-chain/73517)
 * [MetaMask](https://www.metamask.io)
 * [Math Wallet](https://twitter.com/MathWallet/status/1349879468437905408)
 
-## Proof of Asset
-
- [View Proof of Assets](https://www.binance.org/en/assets-proof)
-
-As the largest crypto token vault and exchange, Binance.com will issue and bind more token assets on Binance Chain and Binance Smart Chain, and guarantee the conversion from and to the original tokens with credibility and infrastructure.
+## 
 
 
 
