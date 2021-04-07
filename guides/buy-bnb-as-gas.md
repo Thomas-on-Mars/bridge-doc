@@ -22,7 +22,7 @@ There are 3 options: 0.5 BNB, 1BNB and 2 BNB
 
 ### 1. Input your order information
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29%20%281%29.png)
 
 
 
@@ -44,7 +44,7 @@ The actual amount of network fee you have to pay is ****_**network fee\*\(1-disc
 
 ### 5. Complete the deposit transaction by sending the exact amount of token to the address shown
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 
 
