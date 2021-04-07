@@ -4,13 +4,19 @@
 * [Release](release.md)
 * [Roadmap](roadmap.md)
 
+## Support
+
+* [Customer Support](support/customer-support.md)
+* [Best Practice](support/best-practice.md)
+* [FAQ](support/faq.md)
+* [Common Issue](support/common-issue.md)
+
 ## Guides
 
 * [Binance Bridge v2](guides/binance-bridge-v2.md)
 * [Binance Bridge v1](guides/binance-bridge-v1.md)
 * [Supported Assets](guides/supported-assets.md)
 * [Buy BNB as Gas](guides/buy-bnb-as-gas.md)
-* [Best Practice](guides/best-practice.md)
 
 ## Resource
 
@@ -25,10 +31,4 @@
 ## Contact Info
 
 * [Partnership](contact-info/partnership.md)
-
-## Support
-
-* [Customer Support](support/customer-support.md)
-* [FAQ](support/faq.md)
-* [Common Issue](support/common-issue.md)
 
