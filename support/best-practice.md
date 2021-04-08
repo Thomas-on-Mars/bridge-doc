@@ -1,4 +1,4 @@
-# Best Practice
+# 最佳实践
 
 {% hint style="info" %}
 Please try a small amount before swap a large amount.

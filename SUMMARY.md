@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Release](release.md)
-* [Roadmap](roadmap.md)
+* [简介](README.md)
+* [发布历史](release.md)
+* [路线图](roadmap.md)
 
-## Support
+## 帮助 <a id="support"></a>
 
-* [Customer Support](support/customer-support.md)
-* [Best Practice](support/best-practice.md)
+* [客服](support/customer-support.md)
+* [最佳实践](support/best-practice.md)
 * [FAQ](support/faq.md)
-* [Common Issue](support/common-issue.md)
+* [常见问题](support/common-issue.md)
 
 ## Guides
 
