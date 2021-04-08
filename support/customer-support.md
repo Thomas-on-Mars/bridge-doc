@@ -4,7 +4,7 @@
 
 If you're experiencing issues,
 
-1. First check the [troubleshooting](common-issue.md#issues-with-failed-canceled-orders) page for your error code
+1. First check the [troubleshooting](common-issue.md#issues-with-failed-canceled-orders) page for your error
 2. If you can't find a solution, try reaching out to the customer support [here](https://www.binance.com/en/support) and start a chat
 
 {% hint style="danger" %}
