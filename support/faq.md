@@ -1,6 +1,6 @@
 # FAQ
 
-## What is network fee?
+## 什么是网络费用?
 
 A fixed network fee will be charged according to different networks. The amount differs within different blockchains.
 

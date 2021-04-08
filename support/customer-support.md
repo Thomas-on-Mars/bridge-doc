@@ -1,13 +1,11 @@
 # 客服
 
+如果你遇到了一些问题，
 
-
-If you're experiencing issues,
-
-1. First check the [troubleshooting](common-issue.md#issues-with-failed-canceled-orders) page for your error code
-2. If you can't find a solution, try reaching out to the customer support [here](https://www.binance.com/en/support) and start a chat
+1. 请首先查看[常见错误](common-issue.md)
+2. 如果你的问题还是无法解决，请转到这个页面联系客服💁
 
 {% hint style="danger" %}
-**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that does.**
+**永远不要与任何人分享你的私钥。如果有人尝试这么做，请立即举报。**
 {% endhint %}
 

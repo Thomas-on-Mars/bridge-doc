@@ -1,7 +1,7 @@
 # 最佳实践
 
 {% hint style="info" %}
-Please try a small amount before swap a large amount.
+请先尝试完成小额测试
 {% endhint %}
 
 1. If your deposit transaction is sent shortly before the closing deadline, there is a great chance that the transaction will not be confirmed before closing time.
