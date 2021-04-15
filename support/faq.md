@@ -30,7 +30,7 @@ Please pay attention to network type.
 
 The address of Binance Chain and Binance Smart Chain has different formats. In case of any kind of failure, please contact the customer support.
 
-## What’s the fee structure for Binance Bridge Swap?
+## What’s the fee structure for Binance Bridge?
 
 ![img](https://lh6.googleusercontent.com/D7dFQqiirD0h2l4NcwbNv8mX_wlcRnyHII9wzBbjBmKMT09Kth-_uS1h4ALkxQ7XqfY783hJIdhy-aRAuMBKLsYXT8a53O6c9BwKjd5TW4fVD-glq-j7E4WTaR5gV4xNru2b7eVe)
 
