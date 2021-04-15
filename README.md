@@ -22,6 +22,7 @@ As the largest crypto token vault and exchange, Binance.com will issue and bind 
 
 ## Wallet Support
 
+* [Binance Chain Extension Wallet](https://binance-wallet.gitbook.io/binance-chain-extension-wallet/)
 * [Trust Wallet](https://community.trustwallet.com/t/how-to-peg-out-tokens-from-binance-smart-chain/73517)
 * [MetaMask](https://www.metamask.io)
 * [Math Wallet](https://twitter.com/MathWallet/status/1349879468437905408)
