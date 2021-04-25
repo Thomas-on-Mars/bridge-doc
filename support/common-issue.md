@@ -2,9 +2,7 @@
 
 ## Issues with failed/canceled orders
 
-Any canceled/failed order on Binance Bridge cause you not receiving the tokens will be refunded to your original wallet address automatically. Please just be patient and wait for at most 24H. For edge cases, if you have not gotten the refunded tokens after 7days, please fill in this form.   
-  
-[https://forms.gle/CKxBWF1V641GWAT9A](https://forms.gle/CKxBWF1V641GWAT9A)
+Any canceled/failed order on Binance Bridge cause you not receiving the tokens will be refunded to your original wallet address automatically. Please just be patient and wait for at most 24H. For edge cases, if you have not gotten the refunded tokens after 7days, please create a ticket at this support page: [support.binance.org](https://support.binance.org/)
 
 ## Issues with deposit to exchange
 
