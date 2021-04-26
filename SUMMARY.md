@@ -13,7 +13,7 @@
 
 ## Guides
 
-* [Binance Bridge V3](guides/binance-bridge-v3.md)
+* [Binance Bridge v3](guides/binance-bridge-v3.md)
 * [Binance Bridge v2](guides/binance-bridge-v2.md)
 * [Binance Bridge v1](guides/binance-bridge-v1.md)
 * [Supported Assets](guides/supported-assets.md)

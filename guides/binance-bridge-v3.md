@@ -1,6 +1,6 @@
-# Binance Bridge V3
+# Binance Bridge v3
 
-Binance Bridge V3 ****is one step further in broadening Binance Bridge’s influence outside of BSC, thus opening up a whole new cross-chain DeFi ecosystem to the community.
+[Binance Bridge V3 ****](https://binance-wallet.gitbook.io/binance-bridge/)is one step further in broadening Binance Bridge’s influence outside of BSC, thus opening up a whole new cross-chain DeFi ecosystem to the community.
 
 ## **An Enhanced User Experience \(UX\) and User Interface \(UI\)**
 
