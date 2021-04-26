@@ -1,5 +1,15 @@
 # Release
 
+## 3.0.0 - 2021-04-27
+
+### New  Features
+
+* Add network
+
+### Changed
+
+* Improved swap workflow between BSC & Ethereum
+
 ## 2.1.0 - 2021-01-27
 
 ### New  Features
