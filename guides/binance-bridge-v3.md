@@ -17,8 +17,8 @@ For MetaMask users, if your wallet has not configured Binance Smart Chain, then 
 
 To avoid mistakes, more restrictions are implemented. 
 
-1. From network must be a user's connected network. For example, if your MetaMask is on Ethereum, then you must send transactions from the Ethereum network. 
-2. Destination address must be your connected address. You cannot change the destination address. From now on, you can switch the network to check your balance after completing the swap.
+1. **From network** must be a user's connected network. For example, if your MetaMask is on Ethereum, then you must send transactions from the Ethereum network. 
+2. **Destination address** must be your connected address. You cannot change the destination address. From now on, you can switch the network to check your balance after completing the swap.
 
 ![](https://lh4.googleusercontent.com/5QAMnkvo-eHfV5XhauZK4cpRhY-qiuzbZxJAdQHgTpb0IHLB2qyJ7vgW3ZFKdcs_Vjk7KJNWnDsV7d3pouPslpaip7cGqeje7Pp8-jyOJqgB38dOtmX6bD0LV7VmGWgipBD7TLAn)
 
