@@ -13,7 +13,7 @@ For MetaMask users, if your wallet has not configured Binance Smart Chain, then 
 
 ![](../.gitbook/assets/image.png)
 
-### Improved transaction process between BSC & Ethereum network
+### Improved Transaction Workflow between BSC & Ethereum
 
 To avoid mistakes, more restrictions are implemented. 
 
