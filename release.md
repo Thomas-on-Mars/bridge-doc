@@ -34,7 +34,7 @@
 
 * Remove "Peg-in" and "'Peg-out".
 
-[Doc Link](guides/binance-bridge-v2.md)
+[Doc Link]()
 
 ## [1.0.0 ](https://www.binance.com/en/support/announcement/b763da0c6ace4e32bf8e65844e6c72e2)- 2020-11-06 \[Deprecated\]
 

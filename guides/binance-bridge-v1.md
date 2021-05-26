@@ -1,4 +1,4 @@
-# Binance Bridge v1
+# Binance Bridge v1 \[Deprecated\]
 
 ![img](https://lh6.googleusercontent.com/h72oSQTbHmSP99oQzsQJsKgaqTjAiAW3nuI086zFVKaqAZgHLV2AzOoUYI48Zr_ISoLwtYdgADTCyqUsZkFZuP2J4tHueEae9_1T1s_3V-f4CuwMzsaKCPvPAazvL3DJ5ZCMmmoh)
 
