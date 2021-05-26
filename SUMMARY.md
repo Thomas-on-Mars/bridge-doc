@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Release](release.md)
 * [Roadmap](roadmap.md)
+* [Changelog](changelog.md)
 
 ## Support
 
