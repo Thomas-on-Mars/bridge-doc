@@ -1,5 +1,12 @@
 # Release
 
+## 3.0.1 - 2021-06-10
+
+### New  Features
+
+* **ETH network ETH max swap amount**:  When the user chooses to swap ETH to pegged ETH, the max amount will be ETH balance - estimated transfer fee; Add a reminder message of change: The estimated max amount is your ETH balance minus the estimated gas fee 
+*  Add "[**Refund History**](guides/binance-bridge-history-page.md#refund-history)" to History page: With the release of Bridge V3, the refund process for the following orders between BSC and Ethereum will be automatic. Users can check the refund tx easily 
+
 ## 3.0.0 - 2021-04-27
 
 ### New  Features

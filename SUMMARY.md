@@ -15,6 +15,7 @@
 ## Guides
 
 * [Binance Bridge](guides/binance-bridge-v3.md)
+* [Binance Bridge History Page](guides/binance-bridge-history-page.md)
 * [Binance Bridge v1 \[Deprecated\]](guides/binance-bridge-v1.md)
 * [Supported Assets](guides/supported-assets.md)
 * [Buy BNB as Gas](guides/buy-bnb-as-gas.md)
