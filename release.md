@@ -1,4 +1,11 @@
-# Release
+# 📓Release
+
+## 3.0.2 - 2021-06-18
+
+### New  Features
+
+* **Disable Memo** when Binance Chain is chosen as the destination network
+* Block orders with centralized exchange deposit address as the destination
 
 ## 3.0.1 - 2021-06-10
 

@@ -2,7 +2,7 @@
 description: 'https://www.binance.org/en/bridge'
 ---
 
-# Introduction
+# 👋Introduction
 
 ## What is Binance Bridge?
 

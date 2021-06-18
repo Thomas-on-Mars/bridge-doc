@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Release](release.md)
-* [Roadmap](roadmap.md)
-* [Changelog](changelog.md)
+* [👋Introduction](README.md)
+* [📓Release](release.md)
+* [🌉 Roadmap](roadmap.md)
+* [🖊 Changelog](changelog.md)
 
 ## Support
 
-* [Customer Support](support/customer-support.md)
+* [☎️Customer Support](support/customer-support.md)
 * [Best Practice](support/best-practice.md)
 * [FAQ](support/faq.md)
 * [Common Issue](support/common-issue.md)

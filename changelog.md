@@ -1,4 +1,11 @@
-# Changelog
+# 🖊 Changelog
+
+## V3.0/2 - 2021-06-18
+
+1. **Delete** “**MEMO/Tag**” input of all assets swap
+2. Do not allow using the deposit address provided by a centralized exchange as the destination
+
+![](.gitbook/assets/image%20%2815%29.png)
 
 ## V3.0 - 2021-04-27
 
