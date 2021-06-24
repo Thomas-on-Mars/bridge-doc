@@ -1,5 +1,13 @@
 # 📓Release
 
+## 3.0.3 - 2021-06-24
+
+### New  Features
+
+* Add status info at homepage. When the bridge service is suspended, there will be a warning. 
+
+![](.gitbook/assets/1-not-connect.png)
+
 ## 3.0.2 - 2021-06-18
 
 ### New  Features
